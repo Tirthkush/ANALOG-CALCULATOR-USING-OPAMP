@@ -1,0 +1,22 @@
+LTspice 26.0.1 for Windows
+Circuit: C:\Users\Tirth Kushwaha\OneDrive\Desktop\CALCULATOR\MAINCALCULATOR.net
+Start Time: Wed Apr 15 01:22:12 2026
+solver = Normal
+Maximum thread count: 12
+tnom = 27
+temp = 27
+method = trap
+WARNING: Node add is floating.
+WARNING: Node sub is floating.
+WARNING: Node int is floating.
+WARNING: Node log is floating.
+WARNING: Node anti is floating.
+
+Direct Newton iteration succeeded in finding operating point.
+Total elapsed time: 22.556 seconds.
+
+Files loaded:
+C:\Users\Tirth Kushwaha\OneDrive\Desktop\CALCULATOR\MAINCALCULATOR.net
+C:\Users\Tirth Kushwaha\AppData\Local\LTspice\lib\cmp\standard.bjt
+C:\Users\Tirth Kushwaha\AppData\Local\LTspice\lib\sub\UniversalOpAmp1.lib
+
